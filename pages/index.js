@@ -8,7 +8,7 @@ export default function home() {
       <Head>
         <title>Martin | Front End Developer</title>
         <meta name="description" content="Bleep boop" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=0.9" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Home />

@@ -34,7 +34,7 @@ export const SideBar = () => {
         >
             <div className={styles.wrapper}>
                 <span className={styles.logo}>
-        B<span>.</span>
+        M<span>!</span>
       </span>
                 <motion.a
                     initial={{x: -70}}
